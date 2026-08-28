@@ -42,8 +42,6 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> My Latest Projects: **[My GitHub Readme](https://github.com/Eng-Shahd-Mostafaa/eng-shahd-mostafaa)**
 
-- 🧑‍💻 To know more about me, you can visit **[My Portfolio](https://github.com/Eng-Shahd-Mostafaa/eng-shahd-mostafaa)**.
-
 - ⌚ Currently :
      - Looking for **AI Engineer / Computer Vision / Data Science Internship** opportunities.
      - Exploring **AI Agents, LLMs, and intelligent automation**.
