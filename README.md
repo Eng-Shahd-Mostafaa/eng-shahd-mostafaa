@@ -157,22 +157,24 @@ LLMs, RAG & Agentic AI<br/>
 <div align="center">
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Shahd-Mostafaa&theme=highcontrast&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Shahd-Mostafaa&theme=rose_pine&hide_border=false&background=0d1117&ring=ffb6c1&fire=ff69b4&currStreakLabel=ff69b4" 
     width="60%"
   />
 
   <br/>
 
   <img 
-    alt="Shahd's Top Languages" 
-    height="220px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Shahd-Mostafaa&langs_count=12&count_private=true&layout=compact&theme=dark&hide_border=false&bg_color=000000"
+      alt="Shahd's Top Languages" 
+      height="220px" 
+      src="https://github-readme-stats-phi-eight-77.vercel.app/api/top-langs/?username=Eng-Shahd-Mostafaa&langs_count=12&count_private=true&layout=compact&theme=rose_pine&bg_color=0D1117&hide_border=false&border_color=FFB6C1&title_color=FF69B4"
   />
 
+  <br/>
+  
   <img 
-    alt="Shahd's GitHub Stats" 
-    height="220px" 
-    src="https://github-readme-stats.vercel.app/api?username=Eng-Shahd-Mostafaa&show_icons=true&hide=stars&theme=dark&bg_color=000000&hide_border=false&icon_color=FF8C00"
+      alt="Shahd's GitHub Stats" 
+      height="220px" 
+      src="https://github-readme-stats-phi-eight-77.vercel.app/api?username=Eng-Shahd-Mostafaa&show_icons=true&hide=stars&count_private=true&theme=rose_pine&bg_color=0D1117&hide_border=false&border_color=FFB6C1&title_color=FF69B4&icon_color=FF69B4"
   />
 
 </div>
